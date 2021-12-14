@@ -1,0 +1,120 @@
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.621|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.621|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.621|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.621|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.637|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.637|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.637|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.637|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.637|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.637|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.653|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.653|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.653|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同步 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|开始执行数据库同成功 
+2021/12/14 09:35:43.668|DEBUG|_01_Logging.SystemService|connection succed 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry first 
+2021/12/14 09:35:43.668|WARN|_01_Logging.SystemService|read data faile, retry second 
+2021/12/14 09:35:43.668|ERROR|_01_Logging.SystemService|read data faile 

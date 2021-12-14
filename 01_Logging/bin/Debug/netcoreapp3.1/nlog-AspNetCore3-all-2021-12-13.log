@@ -1,0 +1,28 @@
+2021-12-13 11:42:13.2042|0|DEBUG|_01_Logging.Test|开始执行数据库同步 
+2021-12-13 11:42:13.3572|0|DEBUG|_01_Logging.Test|connection succed 
+2021-12-13 11:42:13.3572|0|WARN|_01_Logging.Test|read data faile, retry first 
+2021-12-13 11:42:13.3572|0|WARN|_01_Logging.Test|read data faile, retry second 
+2021-12-13 11:42:13.3572|0|ERROR|_01_Logging.Test|read data faile 
+2021-12-13 11:42:13.4999|0|ERROR|_01_Logging.Test|读取文件失败 System.IO.DirectoryNotFoundException: Could not find a part of the path 'A:\1.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at _01_Logging.Test.Logging() in D:\C#\C#_logging\02_NLog\01_Logging\01_Logging\Test.cs:line 26
+2021-12-13 11:50:37.0995|0|DEBUG|_01_Logging.Test|开始执行数据库同步 
+2021-12-13 11:50:37.1356|0|DEBUG|_01_Logging.Test|connection succed 
+2021-12-13 11:50:37.1356|0|WARN|_01_Logging.Test|read data faile, retry first 
+2021-12-13 11:50:37.1356|0|WARN|_01_Logging.Test|read data faile, retry second 
+2021-12-13 11:50:37.1356|0|ERROR|_01_Logging.Test|read data faile 
+2021-12-13 11:50:37.2377|0|ERROR|_01_Logging.Test|读取文件失败 System.IO.DirectoryNotFoundException: Could not find a part of the path 'A:\1.txt'.
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at _01_Logging.Test.Logging() in D:\C#\C#_logging\02_NLog\01_Logging\01_Logging\Test.cs:line 26
