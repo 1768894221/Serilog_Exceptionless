@@ -16,7 +16,7 @@ namespace _01_Logging
         {
             ///模拟startup实例一个ServiceCollection 
             ServiceCollection services = new ServiceCollection();
-            ExceptionlessClient.Default.Startup("gF0rVHtu0IZrXM0LmVhZpWIreFJOWV3OZoUssW69");
+            ExceptionlessClient.Default.Startup("你的apikey");
             services.AddLogging(
                 logBuilder=>
                 {
